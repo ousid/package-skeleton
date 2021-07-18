@@ -17,6 +17,9 @@ This repo can be used to scaffold a Laravel package. Follow these steps to get s
 
 This is where your description should go. Limit it to a paragraph or two. Consider adding a small example.
 
+## Note
+This Repository Was Cloned and modified from [spatie skeleton package for laravel](https://github.com/spatie/package-skeleton-laravel). So, please check it out if you want to run your tests with phpunit Testing Framework
+
 ## Installation
 
 You can install the package via composer:
